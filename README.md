@@ -1,1 +1,2 @@
-# literate-train
+# fun
+Fun projects
